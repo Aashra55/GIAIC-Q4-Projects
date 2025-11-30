@@ -1,5 +1,30 @@
-# Landing Page UI
+# Landing Page UI Generation
 
-**Generate HTML and CSS for the given Design**
-(Design should be as it is)
-![design](canva_ss.png)
+## Task
+Generate **pixel-perfect HTML and CSS** based on the provided landing page image (`canva_ss.png`).
+
+## Requirements
+- The UI must match the design *exactly* as shown.
+- Focus on:
+  - Accurate layout
+  - Exact spacing
+  - Font family, size, weight
+  - Colors
+  - Button styles
+  - Images and alignment
+- Use **semantic HTML**.
+- Use **pure CSS** (no frameworks).
+- Code must be **clean, responsive**, and **well-structured**.
+
+## Input File
+- `canva_ss.png` (design reference image)
+
+## Output
+- `index.html`
+- `styles.css`
+
+## Notes
+- Do NOT use Tailwind or Bootstrap.
+- Do NOT change the design.
+- Match typography as closely as possible.
+- Follow a consistent CSS naming convention.
