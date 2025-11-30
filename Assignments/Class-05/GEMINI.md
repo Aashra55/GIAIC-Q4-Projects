@@ -17,7 +17,7 @@ Generate **pixel-perfect HTML and CSS** based on the provided landing page image
 - Code must be **clean, responsive**, and **well-structured**.
 
 ## Input File
-- `canva_ss.png` (design reference image)
+![Landing Page Deign Image](canva_ss.png)
 
 ## Output
 - `index.html`
